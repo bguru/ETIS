@@ -1,2 +1,2 @@
 # ETIS
->A simple site using Bootstrap.
+>A simple website using Bootstrap and CSS.
